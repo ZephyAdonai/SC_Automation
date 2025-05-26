@@ -1,26 +1,6 @@
 from playwright.sync_api import Playwright, sync_playwright, expect
 import time as t
-
-
-##################################
-##### Saves User Credentials #####
-##################################
-
-class userinfo:
-    def __init__(self, email,password,username):
-        self.password = password
-        self.username = username
-        self.email = email
-        self.credentials = (self.email, self.password, self.username)
-    def displayinfo(self):
-        print("Displaying Login Credentials \n")
-        print(f"Password: {self.password} | Username: {self.username} | Email: {self.email}") 
-    
-async def wait():
-    await asyncio.gather(
-    page.wait_for_load_state('load'),
-    page.click('#some-button')
-    )
+import SC_Functions as scf
 
 ##########################################
 ##### Creates and save login session #####
@@ -28,6 +8,7 @@ async def wait():
 
 
 def usercs():
+    scf.write_log("NEW SESSION: Retrieving credentials...", "s")
     switch = True 
     while switch:
         email = input("Insert Email: ")
@@ -39,34 +20,41 @@ def usercs():
                 print("Retrying credentials... \n")
             case 'yes':
                 print("Credentials confirmed")
-                info = userinfo(email,pw,un)
+                info = scf.userinfo(email,pw,un)
                 switch = False
+                scf.write_log("NEW SESSION: User credentials saved.", "s")
                 return info
             case _:
-               print("Invalid Input")
+               print("Invalid Input, try again.")
     def run(playwright: Playwright) -> None:
+        
+        scf.write_log("NEW SESSION: Creating login session... ", "s")
+        
         browser = playwright.chromium.launch(headless=False)
         context = browser.new_context()
         page = context.new_page()
         page.goto("https://www.instagram.com/")
-        wait()
+        scf.wait()
         page.get_by_role("textbox", name="Phone number, username, or email").fill("greenstreet56713@gmail.com")
-        wait()
+        scf.wait()
         page.get_by_role("textbox", name="Password").click()
         page.get_by_role("textbox", name="Password").fill("loveall1")
-        wait()
+        scf.wait()
         page.get_by_role("textbox", name="Password").click()
         page.keyboard.press("Enter")
-        wait()
+        scf.wait()
         code = input("Please insert authentication code: ")
-        wait()
+        scf.wait()
         page.get_by_role("textbox", name="Security Code").fill(code)
-        wait()
+        scf.wait()
         page.get_by_role("button", name="Confirm").click()
-        wait()
+        scf.wait()
+        
         filename = input("Choose a name for the login session.")                        
-        context.storage_state(path=f"session.{filename}")  # Saves login session to a file
-        print("Session saved!")                 
+        context.storage_state(path=f"{filename}.json")  # Saves login session to a file
+        
+        print(f"Session created | {filename}.json") 
+        scf.write_log(f"NEW SESSION: Loggin session created [{filename}.json]", "s")                
         
         context.close()
         browser.close()
