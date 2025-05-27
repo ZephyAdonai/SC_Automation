@@ -1,4 +1,4 @@
-from playwright.sync_api import Playwright, sync_playwright, expect
+from playwright.sync_api import Playwright, sync_playwright
 import time as t
 import SC_Functions as scf
 
@@ -9,8 +9,7 @@ import SC_Functions as scf
 
 def usercs():
     scf.write_log("NEW SESSION: Retrieving credentials...", "s")
-    switch = True 
-    while switch:
+    while True == True:
         email = input("Insert Email: ")
         pw = input("Insert Password: ")
         un = input("Insert Username: ")
