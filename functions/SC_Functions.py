@@ -9,17 +9,17 @@ import asyncio
 def write_log(message, key):
     match (key.strip().lower()): 
         case 'e':###CREATE ERRORLOG###
-            logfile = os.path.join(os.getcwd(),"logs","errorlog.txt")
+            logfile = os.path.join(os.getcwd(),"logs.txt")
             with open(logfile, "a") as log:
                 log.write(f"\n###ERROR###| {message} |###{datetime.now()}###")
                 
         case 's':###CREATE SESSION LOG####
-            logfile = os.path.join(os.getcwd(),"logs","sessionlog.txt")
+            logfile = os.path.join(os.getcwd(),"logs.txt")
             with open(logfile, "a") as log:
                 log.write(f"\n###SESSION-NOTIF###| {message} |###{datetime.now()}###")
                 
         case 'u':###CREATE USERLOG####
-            logfile = os.path.join(os.getcwd(),"logs","userlog.txt")
+            logfile = os.path.join(os.getcwd(),"logs.txt")
             with open(logfile, "a") as log:
                 log.write(f"\n###USERLOGS###| {message} |###{datetime.now()}###")
 
@@ -30,14 +30,14 @@ def write_log(message, key):
 ##################################
 
 class userinfo:
-    def __init__(self, email,password,username):
-        self.password = password
-        self.username = username
+    def __init__(self,email,password,username):
+        self.pw = password
+        self.user = username
         self.email = email
-        self.credentials = (self.email, self.password, self.username)
+        self.credentials = (self.email, self.pw, self.user)
     def displayinfo(self):
         print("Displaying Login Credentials \n")
-        print(f"Password: {self.password} | Username: {self.username} | Email: {self.email}") 
+        print(f"Password: {self.pw} | Username: {self.user} | Email: {self.email}") 
 
 
 #####################################################
@@ -50,22 +50,3 @@ async def wait():
     )
     
     
-#######################################
-##### SocialMedia object creation #####
-#######################################
-class SM_Object:
-    def __init__(self, logindir, userbox, passbox, submitbox):
-        self.logindir = logindir
-        self.userbox = userbox
-        self.passbox = passbox
-        self.submitbox = submitbox
-        # For login session management
-        self.saved_sessions = []
-    #############################
-    ### Manage login sessions ###
-    #############################
-    def save_session(self,session):
-        session_check = os.path.join(os.getcwd(), f"{session}.json")
-        print(f"Saving session [{session}.json]...")
-        self.saved_sessions.append(session)
-        print(f"Saved session [{session}.json] ")
