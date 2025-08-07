@@ -1,5 +1,5 @@
 import os
-from functions.SC_Functions import write_log as log
+from SC_Functions import write_log as log
 
 ###########################################
 ##### Social Media OBJECT declaration #####
