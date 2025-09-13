@@ -1,0 +1,234 @@
+
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-21 00:49:41.957881###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-21 00:49:58.320188###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-21 00:50:45.221663###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-21 00:50:51.760833###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-21 00:53:18.248307###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-21 00:53:29.054227###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-21 00:59:42.045642###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-21 00:59:47.253407###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-21 01:01:33.156790###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-21 01:01:39.798687###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-21 01:02:00.628854###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-21 01:02:06.669341###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-21 01:04:43.547104###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-21 01:04:49.237336###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-21 01:05:26.712398###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-21 01:05:31.209875###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-21 01:09:44.416533###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-21 01:09:50.627148###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-21 01:13:11.319873###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-21 01:13:15.535706###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-21 01:26:45.716968###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-21 01:26:51.400222###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-21 01:28:38.866494###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-21 01:28:45.440699###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-21 01:30:15.366850###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-21 01:30:21.354878###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-21 01:35:30.121934###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-21 01:35:38.429876###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-21 01:36:01.155487###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-21 01:36:06.668393###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-21 01:37:57.048344###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-21 01:38:03.055458###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-21 01:38:42.991110###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-21 01:38:48.503490###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-21 01:39:39.821745###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-21 01:39:45.784251###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-21 01:45:20.748166###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-21 01:45:25.064882###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-21 01:48:16.719600###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-21 01:48:22.255113###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-21 01:54:48.258193###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-21 01:54:52.875755###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-21 01:56:36.246128###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-21 01:56:40.492306###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-21 01:57:52.373700###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-21 01:57:56.956398###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-21 02:10:34.415970###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-21 02:10:38.138173###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-21 02:13:38.471561###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-21 02:13:54.462667###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-21 02:14:00.469326###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-21 02:22:34.124829###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-21 02:22:40.106954###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-21 02:25:11.474204###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-21 02:25:19.978095###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-26 22:14:03.525364###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-26 22:14:10.399257###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-26 22:15:35.219861###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-26 22:15:41.080355###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-26 23:20:33.421051###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-26 23:20:40.670637###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-26 23:25:52.108436###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-26 23:25:56.560043###
+###ERROR###| User response was an invalid input. |###2025-08-26 23:27:09.687306###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-26 23:27:14.077943###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-26 23:27:19.000843###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-26 23:33:15.872594###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-26 23:33:21.533282###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-26 23:35:51.801071###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-26 23:35:56.800721###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-26 23:39:59.880376###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-26 23:40:10.594605###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-26 23:41:21.127313###
+###ERROR###| User response was an invalid input. |###2025-08-26 23:42:04.775978###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-26 23:42:14.239041###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-26 23:42:19.064642###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-27 13:15:06.502179###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-27 13:15:11.613290###
+###ERROR###| User response was an invalid input. |###2025-08-27 13:23:03.391794###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-27 13:23:06.004311###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-27 13:23:09.862154###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-27 13:23:58.461043###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-27 13:24:03.137077###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-27 13:27:59.346827###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-27 13:28:04.773290###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-27 13:32:34.447685###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-27 13:32:39.394846###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-27 13:36:08.611736###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-27 13:36:16.238997###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-27 13:39:59.572315###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-27 13:40:03.777262###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-28 11:39:54.759667###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-28 11:40:09.418883###
+###USERLOGS###| NEW SESSION: Processing Two-Factor Authentication... |###2025-08-28 11:40:13.684776###
+###SESSION-NOTIF###| NEW SESSION: Verifying 2FA code... |###2025-08-28 11:40:56.584275###
+###USERLOGS###| NEW SESSION: User has provided the incorrect 2FA Code, retrying... |###2025-08-28 11:41:01.597929###
+###SESSION-NOTIF###| NEW SESSION: Two-Factor Authentication is not enabled |###2025-08-28 11:42:59.381489###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-28 11:43:04.654561###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-28 11:43:15.644042###
+###USERLOGS###| NEW SESSION: Processing Two-Factor Authentication... |###2025-08-28 11:43:19.775647###
+###SESSION-NOTIF###| NEW SESSION: Verifying 2FA code... |###2025-08-28 11:43:40.189166###
+###USERLOGS###| NEW SESSION: User has provided the incorrect 2FA Code, retrying... |###2025-08-28 11:43:50.201685###
+###SESSION-NOTIF###| NEW SESSION: Two-Factor Authentication is not enabled |###2025-08-28 11:47:45.215373###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-28 11:47:49.312759###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-28 11:48:01.187045###
+###USERLOGS###| NEW SESSION: Processing Two-Factor Authentication... |###2025-08-28 11:48:05.296624###
+###SESSION-NOTIF###| NEW SESSION: Verifying 2FA code... |###2025-08-28 11:48:24.653753###
+###USERLOGS###| NEW SESSION: Choosing name for session... |###2025-08-28 11:48:32.222634###
+###SESSION-NOTIF###| NEW SESSION: Managing and confirming directory of [sessions] folder... |###2025-08-28 11:48:46.342906###
+###SESSION-NOTIF###| NEW SESSION: Directory and session name confirmed.  |###2025-08-28 11:48:46.344362###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-29 01:51:01.496233###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-29 01:51:17.035781###
+###USERLOGS###| NEW SESSION: Processing Two-Factor Authentication... |###2025-08-29 01:51:37.095189###
+###SESSION-NOTIF###| NEW SESSION: Verifying 2FA code... |###2025-08-29 01:51:50.296618###
+###USERLOGS###| NEW SESSION: Choosing name for session... |###2025-08-29 01:51:58.168887###
+###SESSION-NOTIF###| NEW SESSION: Managing and confirming directory of [sessions] folder... |###2025-08-29 01:52:06.406234###
+###SESSION-NOTIF###| NEW SESSION: Directory and session name confirmed.  |###2025-08-29 01:52:06.410887###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-29 01:54:32.265654###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-29 01:54:51.117223###
+###USERLOGS###| NEW SESSION: Processing Two-Factor Authentication... |###2025-08-29 01:54:55.658972###
+###SESSION-NOTIF###| NEW SESSION: Verifying 2FA code... |###2025-08-29 01:55:32.948129###
+###USERLOGS###| NEW SESSION: Choosing name for session... |###2025-08-29 01:55:39.905125###
+###SESSION-NOTIF###| NEW SESSION: Managing and confirming directory of [sessions] folder... |###2025-08-29 01:55:43.181482###
+###SESSION-NOTIF###| NEW SESSION: Directory and session name confirmed.  |###2025-08-29 01:55:43.184698###
+###SESSION-NOTIF###| NEW SESSION: Successfuly created new session. [Ref(sessions/test1.json)] |###2025-08-29 01:55:43.362573###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-29 01:57:23.927621###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-29 01:57:31.543038###
+###USERLOGS###| NEW SESSION: Processing Two-Factor Authentication... |###2025-08-29 01:57:35.654147###
+###SESSION-NOTIF###| NEW SESSION: Two-Factor Authentication is not enabled |###2025-08-29 01:58:43.929193###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-29 01:58:49.321771###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-29 01:59:04.664418###
+###USERLOGS###| NEW SESSION: Processing Two-Factor Authentication... |###2025-08-29 01:59:08.995571###
+###SESSION-NOTIF###| NEW SESSION: Verifying 2FA code... |###2025-08-29 01:59:44.913506###
+###USERLOGS###| NEW SESSION: Choosing name for session... |###2025-08-29 01:59:50.136043###
+###SESSION-NOTIF###| NEW SESSION: Managing and confirming directory of [sessions] folder... |###2025-08-29 01:59:54.397022###
+###SESSION-NOTIF###| NEW SESSION: Directory and session name confirmed.  |###2025-08-29 01:59:54.398018###
+###SESSION-NOTIF###| NEW SESSION: Successfuly created new session. [Ref(sessions/test1.json)] |###2025-08-29 01:59:54.468603###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-29 02:10:12.605710###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-29 02:10:20.452597###
+###USERLOGS###| NEW SESSION: Processing Two-Factor Authentication... |###2025-08-29 02:10:22.535621###
+###SESSION-NOTIF###| NEW SESSION: Verifying 2FA code... |###2025-08-29 02:10:32.679146###
+###USERLOGS###| NEW SESSION: Choosing name for session... |###2025-08-29 02:10:37.780732###
+###SESSION-NOTIF###| NEW SESSION: Managing and confirming directory of [sessions] folder... |###2025-08-29 02:10:42.753964###
+###SESSION-NOTIF###| NEW SESSION: Directory and session name confirmed.  |###2025-08-29 02:10:42.756327###
+###SESSION-NOTIF###| NEW SESSION: Successfuly created new session. [Ref(sessions/test1.json)] |###2025-08-29 02:10:42.923960###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-08-29 02:18:03.954366###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-08-29 02:18:11.781064###
+###USERLOGS###| NEW SESSION: Processing Two-Factor Authentication... |###2025-08-29 02:18:13.844179###
+###SESSION-NOTIF###| NEW SESSION: Verifying 2FA code... |###2025-08-29 02:18:57.668594###
+###USERLOGS###| NEW SESSION: Choosing name for session... |###2025-08-29 02:19:03.893822###
+###SESSION-NOTIF###| NEW SESSION: Managing and confirming directory of [sessions] folder... |###2025-08-29 02:19:08.010504###
+###SESSION-NOTIF###| NEW SESSION: Directory and session name confirmed.  |###2025-08-29 02:19:08.012508###
+###SESSION-NOTIF###| NEW SESSION: Successfuly created new session. [Ref(sessions/test1.json)] |###2025-08-29 02:19:08.070889###
+###USERLOGS###| USER MESSAGE: MUAHAHA MY PROGRAM FUCKING WORKS IM A GENIUS [AUTOMATED MESSAGE]  |###2025-08-29 02:24:19.917402###
+###SESSION-NOTIF###| INITIATED AUTOMATION : MESSAGING FOLLOWERS |###2025-08-29 02:24:24.893977###
+###SESSION-NOTIF###| Successfuly messaged detectivepurin/ |###2025-08-29 02:25:32.395135###
+###SESSION-NOTIF###| Successfuly messaged symphonytoo/ |###2025-08-29 02:25:41.143684###
+###USERLOGS###| USER MESSAGE: MUAHAHAHA I DID IT, SENDING THIS FROM MY USER INTERFACE [AUTOMATED MESSAGE | SENT TO 7 USERS]  |###2025-08-29 12:18:42.232023###
+###SESSION-NOTIF###| INITIATED AUTOMATION : MESSAGING FOLLOWERS |###2025-08-29 12:18:51.260590###
+###USERLOGS###| USER MESSAGE: Sending this from my user-interface, just testing it [AUTOMATED MESSAGE]  |###2025-08-29 12:28:36.721292###
+###SESSION-NOTIF###| INITIATED AUTOMATION : MESSAGING FOLLOWERS |###2025-08-29 12:28:44.493022###
+###SESSION-NOTIF###| autocardetailers/ Doesn't follow zephyadonai, Finding Message Button in Options... |###2025-08-29 12:29:54.097687###
+###USERLOGS###| USER MESSAGE: This is an automated message, its randomized towards users so sorry if this bothered you im testing a coding project Im making [AUTOMATED MESSAGE]  |###2025-08-29 12:35:30.944058###
+###SESSION-NOTIF###| INITIATED AUTOMATION : MESSAGING FOLLOWERS |###2025-08-29 12:35:39.754428###
+###SESSION-NOTIF###| MESSAGED USER: detectivepurin/ |###2025-08-29 12:36:46.836311###
+###SESSION-NOTIF###| Successfuly messaged detectivepurin/ |###2025-08-29 12:36:46.845996###
+###SESSION-NOTIF###| MESSAGED USER: jv.gabe14/ |###2025-08-29 12:36:57.263488###
+###SESSION-NOTIF###| Successfuly messaged jv.gabe14/ |###2025-08-29 12:36:57.266619###
+###SESSION-NOTIF###| MESSAGED USER: yourfavbassplye/ |###2025-08-29 12:37:09.024155###
+###SESSION-NOTIF###| Successfuly messaged yourfavbassplye/ |###2025-08-29 12:37:09.031034###
+###SESSION-NOTIF###| MESSAGED USER: 2900__.soulja/ |###2025-08-29 12:37:21.378338###
+###SESSION-NOTIF###| Successfuly messaged 2900__.soulja/ |###2025-08-29 12:37:21.384546###
+###SESSION-NOTIF###| MESSAGED USER: weezytawpp/ |###2025-08-29 12:37:34.806868###
+###SESSION-NOTIF###| Successfuly messaged weezytawpp/ |###2025-08-29 12:37:34.814241###
+###SESSION-NOTIF###| MESSAGED USER: stop.trimm/ |###2025-08-29 12:37:46.492172###
+###SESSION-NOTIF###| Successfuly messaged stop.trimm/ |###2025-08-29 12:37:46.514186###
+###SESSION-NOTIF###| SYSTEM FOUND [72] FILE(S) IN CONTENT FOLDER |###2025-08-29 12:40:27.956922###
+###SESSION-NOTIF###| SYSTEM FOUND [72] FILE(S) IN CONTENT FOLDER |###2025-08-29 12:41:45.404521###
+###SESSION-NOTIF###| SYSTEM FOUND [72] FILE(S) IN CONTENT FOLDER |###2025-08-29 12:42:16.048157###
+###USERLOGS###| USER MESSAGE: hi [AUTOMATED MESSAGE]  |###2025-08-29 12:43:36.654266###
+###SESSION-NOTIF###| INITIATED AUTOMATION : MESSAGING FOLLOWERS |###2025-08-29 12:43:46.244307###
+###SESSION-NOTIF###| MESSAGED USER: cod3name_monk3y/ |###2025-08-29 12:44:54.301300###
+###SESSION-NOTIF###| Successfuly messaged cod3name_monk3y/ |###2025-08-29 12:44:54.304350###
+###SESSION-NOTIF###| MESSAGED USER: ohitsdesyy/ |###2025-08-29 12:45:05.816375###
+###SESSION-NOTIF###| Successfuly messaged ohitsdesyy/ |###2025-08-29 12:45:05.819159###
+###SESSION-NOTIF###| MESSAGED USER: brizzy.beatss/ |###2025-08-29 12:45:17.357008###
+###SESSION-NOTIF###| Successfuly messaged brizzy.beatss/ |###2025-08-29 12:45:17.361488###
+###SESSION-NOTIF###| MESSAGED USER: strawberry_kats/ |###2025-08-29 12:45:28.542046###
+###SESSION-NOTIF###| Successfuly messaged strawberry_kats/ |###2025-08-29 12:45:28.564492###
+###USERLOGS###| USER MESSAGE: testing my program code sorryyyyy [AUTOMATED MESSAGE]  |###2025-08-30 23:35:13.934675###
+###SESSION-NOTIF###| INITIATED AUTOMATION : MESSAGING FOLLOWERS |###2025-08-30 23:35:19.688588###
+###SESSION-NOTIF###| jssworldd_15/ Doesn't follow zephyadonai, Finding Message Button in Options... |###2025-08-30 23:36:26.602438###
+###SESSION-NOTIF###| Successfuly messaged jssworldd_15/ |###2025-08-30 23:36:48.494865###
+###SESSION-NOTIF###| MESSAGED USER: kittyreki/ |###2025-08-30 23:36:54.313166###
+###SESSION-NOTIF###| Successfuly messaged kittyreki/ |###2025-08-30 23:36:54.315316###
+###SESSION-NOTIF###| theozziperson/ Doesn't follow zephyadonai, Finding Message Button in Options... |###2025-08-30 23:37:07.498742###
+###USERLOGS###| USER MESSAGE: hi  |###2025-08-30 23:38:03.140913###
+###SESSION-NOTIF###| INITIATED AUTOMATION : MESSAGING FOLLOWERS |###2025-08-30 23:38:08.872850###
+###SESSION-NOTIF###| autocardetailers/ Doesn't follow zephyadonai, Finding Message Button in Options... |###2025-08-30 23:39:15.858738###
+###USERLOGS###| USER MESSAGE: hi  |###2025-09-02 17:06:13.578428###
+###SESSION-NOTIF###| INITIATED AUTOMATION : MESSAGING FOLLOWERS |###2025-09-02 17:06:21.731140###
+###USERLOGS###| USER MESSAGE: hi  |###2025-09-02 17:08:05.351845###
+###SESSION-NOTIF###| INITIATED AUTOMATION : MESSAGING FOLLOWERS |###2025-09-02 17:08:11.775581###
+###SESSION-NOTIF###| MESSAGED USER: ohitsdesyy/ |###2025-09-02 17:08:25.478588###
+###SESSION-NOTIF###| Successfuly messaged ohitsdesyy/ |###2025-09-02 17:08:25.480515###
+###SESSION-NOTIF###| MESSAGED USER: big_boy_chaze/ |###2025-09-02 17:08:33.797472###
+###SESSION-NOTIF###| Successfuly messaged big_boy_chaze/ |###2025-09-02 17:08:33.799485###
+###SESSION-NOTIF###| MESSAGED USER: yourfavbassplye/ |###2025-09-02 17:08:41.321487###
+###SESSION-NOTIF###| Successfuly messaged yourfavbassplye/ |###2025-09-02 17:08:41.327643###
+###SESSION-NOTIF###| MESSAGED USER: psylent_fox/ |###2025-09-02 17:08:48.392998###
+###SESSION-NOTIF###| Successfuly messaged psylent_fox/ |###2025-09-02 17:08:48.395017###
+###USERLOGS###| USER MESSAGE: hi eahdaid this is an automated test msssage from mu programm   |###2025-09-02 20:17:49.914157###
+###USERLOGS###| USER MESSAGE: aiodwamodmwaiodmaw  |###2025-09-02 20:18:07.397637###
+###USERLOGS###| USER MESSAGE: automated message test  |###2025-09-02 20:19:16.474365###
+###SESSION-NOTIF###| INITIATED AUTOMATION : MESSAGING FOLLOWERS |###2025-09-02 20:19:22.084251###
+###SESSION-NOTIF###| MESSAGED USER: classicsvictorys/ |###2025-09-02 20:19:32.605166###
+###SESSION-NOTIF###| Successfuly messaged classicsvictorys/ |###2025-09-02 20:19:32.606167###
+###SESSION-NOTIF###| MESSAGED USER: sidecharacter__.16/ |###2025-09-02 20:19:36.893005###
+###SESSION-NOTIF###| Successfuly messaged sidecharacter__.16/ |###2025-09-02 20:19:36.894005###
+###SESSION-NOTIF###| MESSAGED USER: shae_baller/ |###2025-09-02 20:19:41.137787###
+###SESSION-NOTIF###| Successfuly messaged shae_baller/ |###2025-09-02 20:19:41.138789###
+###SESSION-NOTIF###| MESSAGED USER: antimvttrs/ |###2025-09-02 20:19:46.006811###
+###SESSION-NOTIF###| Successfuly messaged antimvttrs/ |###2025-09-02 20:19:46.008812###
+###SESSION-NOTIF###| SYSTEM FOUND [72] FILE(S) IN CONTENT FOLDER |###2025-09-02 20:22:47.127777###
+###SESSION-NOTIF###| SYSTEM FOUND [72] FILE(S) IN CONTENT FOLDER |###2025-09-02 20:23:58.971123###
+###SESSION-NOTIF###| NEW SESSION: Retrieving credentials... |###2025-09-12 21:49:52.948546###
+###SESSION-NOTIF###| NEW SESSION: User credentials saved. |###2025-09-12 21:50:07.416005###
+###USERLOGS###| NEW SESSION: Processing Two-Factor Authentication... |###2025-09-12 21:50:17.054733###
+###SESSION-NOTIF###| NEW SESSION: Verifying 2FA code... |###2025-09-12 21:50:43.162811###
+###USERLOGS###| NEW SESSION: Choosing name for session... |###2025-09-12 21:50:49.201520###
+###SESSION-NOTIF###| NEW SESSION: Managing and confirming directory of [sessions] folder... |###2025-09-12 21:50:58.234076###
+###SESSION-NOTIF###| NEW SESSION: Directory and session name confirmed.  |###2025-09-12 21:50:58.234076###
+###SESSION-NOTIF###| NEW SESSION: Successfuly created new session. [Ref(sessions/test1.json)] |###2025-09-12 21:50:58.369656###

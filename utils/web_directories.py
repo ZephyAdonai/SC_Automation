@@ -1,5 +1,5 @@
 import os
-from SC_Functions import write_log as log
+from .SC_functions import write_log as log
 
 ###########################################
 ##### Social Media OBJECT declaration #####
@@ -32,6 +32,7 @@ class SM_Object:
             tfactor,
             tfs, 
             inbox,
+            auth_dir="N/A"
             ):
         #########################################################################################
         #These are mainly selector and button values, to be targeted/filled by userinput later.#/
@@ -44,7 +45,8 @@ class SM_Object:
             "password": passbox,
             "submit":(submitbox, tfs),
             "2factor":tfactor,
-            "inbox": inbox
+            "inbox": inbox,
+            "auth": auth_dir
             
         }
         self.saved_sessions = []
@@ -52,15 +54,20 @@ class SM_Object:
     ### Manage login sessions ###
     #############################
     def save_session(self):
+        
         log("NEW SESSION: Choosing name for session...", "u")
         s_name = input("Enter a name for your session file [NO EXTENSION REQUIRED]: ").strip()
+        
         log("NEW SESSION: Managing and confirming directory of [sessions] folder...", "s")
-        folder = "./sessions"
+        
+        folder = "sessions/"
         os.makedirs(folder, exist_ok=True)
         path = os.path.join(folder, f"{s_name}.json")
         self.saved_sessions.append(path)
+        
         log("NEW SESSION: Directory and session name confirmed. ", "s")
         return path
+    
     def view_sessions(self):
         print("Saved Sessions:")
         for session in self.saved_sessions:
@@ -77,7 +84,8 @@ instagram = SM_Object(
     "Log in",
     "Security Code",
     "Confirm",
-    "https://www.instagram.com/direct/inbox/"
+    "https://www.instagram.com/direct/inbox/",
+    "https://www.instagram.com/accounts/onetap/?next=%2F"
     
 )
 
