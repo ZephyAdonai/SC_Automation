@@ -40,7 +40,7 @@ def credentials():
 ##### Creates and save login session #####
 ##########################################
 async def create_ses(playwright: Playwright, info, media) -> None:
-    browser = await playwright.chromium.launch(headless=False)
+    browser = await playwright.chromium.launch(headless=True)
     context = await browser.new_context()
     page = await context.new_page()
     await page.goto(media.values["webdir"])
@@ -133,7 +133,7 @@ def create_session():
 
 async def message_followers(playwright: Playwright, username, media, msg, msg_count,) -> None:
     session = scf.fetch_session(username) 
-    browser = await playwright.chromium.launch(headless=False)
+    browser = await playwright.chromium.launch(headless=True)
     context = await browser.new_context(storage_state=session)
     page = await context.new_page()
     
@@ -233,7 +233,7 @@ async def post(playwright: Playwright, content_folder, username) -> None:
     if session:
         log(f"NOW EMPTYING CONTENT FOLDER INTO ACCOUNT - {username}....", "s")
 
-        browser = await playwright.chromium.launch(headless=False)
+        browser = await playwright.chromium.launch(headless=True)
         context = await browser.new_context(storage_state=session)
         page = await context.new_page()
         
